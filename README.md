@@ -39,15 +39,16 @@ To simplify access to mosques and Islamic programs by providing a modern, user-f
 ## 📸 App Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/home-map.jpeg" width="230"/>
-  <img src="assets/screenshots/mosque-list.jpeg" width="230"/>
-  <img src="assets/screenshots/home-prayer.jpeg" width="230"/>
+  <img src="assets/home-map.jpeg" width="230"/>
+  <img src="assets/mosque-list.jpeg" width="230"/>
+  <img src="assets/home-prayer.jpeg" width="230"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/prayer-times.jpeg" width="230"/>
-  <img src="assets/screenshots/settings.jpeg" width="230"/>
+  <img src="assets/prayer-times.jpeg" width="230"/>
+  <img src="assets/settings.jpeg" width="230"/>
 </p>
+
 
 ---
 
