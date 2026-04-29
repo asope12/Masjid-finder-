@@ -102,8 +102,6 @@ npx expo start
 
 ## 📌 Status
 
-## 📌 Status
-
 ✅ Completed (Not Yet Published)
 
 Masjid Finder is a fully developed and functional application with core features implemented, including mosque discovery, Qibla direction, prayer time tracking, and service filtering.
