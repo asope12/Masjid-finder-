@@ -39,14 +39,14 @@ To simplify access to mosques and Islamic programs by providing a modern, user-f
 ## 📸 App Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/home-map.jpeg" width="250"/>
-  <img src="assets/screenshots/mosque-list.jpeg" width="250"/>
-  <img src="assets/screenshots/home-prayer.jpeg" width="250"/>
+  <img src="assets/screenshots/home-map.jpeg" width="230"/>
+  <img src="assets/screenshots/mosque-list.jpeg" width="230"/>
+  <img src="assets/screenshots/home-prayer.jpeg" width="230"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/prayer-times.jpeg" width="250"/>
-  <img src="assets/screenshots/settings.jpeg" width="250"/>
+  <img src="assets/screenshots/prayer-times.jpeg" width="230"/>
+  <img src="assets/screenshots/settings.jpeg" width="230"/>
 </p>
 
 ---
@@ -80,7 +80,7 @@ To simplify access to mosques and Islamic programs by providing a modern, user-f
 
 ## 🚀 Installation
 
-```bash
+```bash id="7qkgm7"
 git clone https://github.com/YOUR-USERNAME/masjid-finder.git
 cd masjid-finder
 npm install
