@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "MasjidFinder",
+    "slug": "masjid-finder",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon1.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icon1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F5E5C0"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourcompany.masjidfinder",
+      "config": {
+        "googleMapsApiKey": "AIzaSyBLhL8HeNRdZ8-9cyQ1rMdYZG3nK7ZYhbp"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon1.png",
+        "backgroundColor": "#F5E5C0"
+      },
+      "package": "com.yourcompany.masjidfinder",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBLhL8HeNRdZ8-9cyQ1rMdYZG3nK7ZYhbp"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/icon1.png"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-maps"
+    ]
+  }
+}
