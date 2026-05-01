@@ -82,7 +82,7 @@ To simplify access to mosques and Islamic programs by providing a modern, user-f
 ## 🚀 Installation
 
 ```bash id="7qkgm7"
-git clone https://github.com/asope12/Masjid-finder.git
+git clone https://github.com/cfj0/Masjid-finder.git
 cd masjid-finder
 npm install
 npx expo start
