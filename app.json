@@ -26,7 +26,7 @@
       "package": "com.yourcompany.masjidfinder",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyBLhL8HeNRdZ8-9cyQ1rMdYZG3nK7ZYhbp"
+          "apiKey": "google-maps-API-key"
         }
       }
     },
