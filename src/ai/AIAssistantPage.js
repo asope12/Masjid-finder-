@@ -17,7 +17,7 @@ import {
 import { Ionicons } from "@expo/vector-icons";
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-const API_KEY = "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";
+const API_KEY = "openrouter-API-key";
 
 export default function AIAssistantPage({ setCurrentPage }) {
   const [messages, setMessages] = useState([]);
