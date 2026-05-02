@@ -15,7 +15,7 @@
       "supportsTablet": true,
       "bundleIdentifier": "com.yourcompany.masjidfinder",
       "config": {
-        "googleMapsApiKey": "AIzaSyBLhL8HeNRdZ8-9cyQ1rMdYZG3nK7ZYhbp"
+        "googleMapsApiKey": "google-maps-API-key"
       }
     },
     "android": {
