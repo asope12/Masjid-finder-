@@ -33,7 +33,7 @@ To simplify access to mosques and Islamic programs by providing a modern, user-f
 * 🕰️ Prayer times integration
 * 🌙 Light & dark mode
 * 🌍 Arabic & English support
-* 📱 AI-That heps you with anything about the app for example , Prayer, mosque finder and more .
+* 📱 AI-That helps you with anything about the app for example , Prayer, mosque finder and more .
 
 ---
 
